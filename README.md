@@ -17,7 +17,7 @@ Além disso, o sistema gera **histórico de processos** e exportação para **pl
 
 ## ⚙️ Funcionalidades
 
-- Registrar roupas em processo de secagem  
+- Registrar roupas em processo de secagem e lavagem
 - Acompanhar status em tempo real (tela principal)  
 - Finalizar ou cancelar operações  
 - Visualizar histórico filtrando por data  
