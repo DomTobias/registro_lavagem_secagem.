@@ -4,13 +4,13 @@ Este projeto tem como objetivo substituir o controle manual em papel pelo **regi
 
 O sistema registra informações como:
 - 📅 Data  
-- ⏰ Hora de início  
+- ⏰ Hora de início
+- ⏰ Hora Final
 - ⚖️ Peso (Kg)  
 - 👕 Tipo de roupa  
 - 👤 Operador  
-- 🌀 Secadora utilizada  
-- 📌 Status (em andamento, concluído ou cancelado)  
-
+- 🌀 Maquina utilizada  
+ 
 Além disso, o sistema gera **histórico de processos** e exportação para **planilhas Excel mensais**.
 
 ---
